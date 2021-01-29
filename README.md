@@ -1,7 +1,7 @@
 ![Logo](HIP_banner.png "Hack In Place!")
 
 
-> Today we're going to learn **git**! We're going to pratice cloning, adding, commiting, merging, and resolving merge conflicts! At the end of this lab you'll have a personal webpage that you can access at https://github.com/andrewdchen/HIP-A2CN/docs/ !
+> Today we're going to learn **git**! We're going to pratice cloning, adding, commiting, merging, and resolving merge conflicts! At the end of this lab you'll have a personal webpage that you can access at https://andrewdchen.github.io/HIP-A2CN/docs/ !
 
 # Getting Started: 
 
